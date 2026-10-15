@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/foxletters-hq/.github/main/assets/app-icon.png" alt="白守 · BaiShou" width="112" height="112" />
+<img src="https://raw.githubusercontent.com/foxletters-hq/.github/main/assets/foxletters-icon.jpg" alt="狐信科技 · Foxletters" width="120" height="120" style="border-radius: 24px;" />
 
 # 狐信科技 · Foxletters
 
